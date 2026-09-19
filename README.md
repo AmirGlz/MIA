@@ -4,7 +4,7 @@ Repositorio para el curso de Fundamentos de Inteligencia Artificial | Facultad d
 - Alumno: Amir Jesus Gonzalez Escalante
 
 ## Ejercicios: 
-  1. [Conceptos básicos de Inteligencia Artificial] (https://github.com/AmirGlz/MIA/tree/main/01_Conceptos_b%C3%A1sicos_de_Inteligencia_Artificial/ejercicio_01)
+  1. [Conceptos básicos de Inteligencia Artificial](https://github.com/AmirGlz/MIA/tree/main/01_Conceptos_b%C3%A1sicos_de_Inteligencia_Artificial/ejercicio_01)
   2. [Agentes 1](https://github.com/AmirGlz/MIA/tree/main/02_agentes/ejercicio_01)
   3. [Agentes 2](https://github.com/AmirGlz/MIA/tree/main/02_agentes/ejercicio_02)
   4. [Búsqueda no informada](https://github.com/AmirGlz/MIA/tree/main/03_busqueda_no_informada/ejercicio_1)
