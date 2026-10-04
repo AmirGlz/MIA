@@ -1,0 +1,35 @@
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
+# Entornos de Python
+.venv/
+/node_modules
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Cachés locales
+/checklist.md
+data/example_corpus/work_orders/*.pdf.tmp
+.streamlit/secrets.toml
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Temporales, editores y notebooks
+*.tmp
+*.temp
+*.log
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

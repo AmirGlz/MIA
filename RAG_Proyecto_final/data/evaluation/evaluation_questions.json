@@ -1,0 +1,22 @@
+[
+  {
+    "question": "¿Qué recomienda el manual del equipo PRN-HP-01 para revisar atascos de papel?",
+    "expected_source_type": "manual",
+    "expected_equipment_id": "PRN-HP-01"
+  },
+  {
+    "question": "¿Qué fallas recurrentes y reparaciones ha tenido CUT-IDEAL-01?",
+    "expected_source_type": "work_order",
+    "expected_equipment_id": "CUT-IDEAL-01"
+  },
+  {
+    "question": "Propón mantenimiento para PRN-HP-01 con evidencia de manual e historial.",
+    "expected_source_type": "both",
+    "expected_equipment_id": "PRN-HP-01"
+  },
+  {
+    "question": "¿Cuál fue la humedad exacta de la sala el 1 de enero de 1900?",
+    "expected_source_type": "none",
+    "expected_abstained": true
+  }
+]

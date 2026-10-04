@@ -1,0 +1,5 @@
+equipment_id,equipment_type,manufacturer,model,description,manual_url
+PRN-HP-01,printer,HP,LaserJet Enterprise MFP 5602,Impresora multifunción para producción editorial,https://support.hp.com/us-en/product/setup-user-guides/hp-laserjet-enterprise-mfp-5602-printer-series/model/2101518903
+CUT-IDEAL-01,paper_cutter,IDEAL,5560,Cortadora de papel para acabado editorial,https://ideal.de/en/products/the-56
+PC-HP-01,computer,HP,ZBook 15,Estación de trabajo para preprensa,https://support.hp.com/ie-en/product/setup-user-guides/hp-zbook-15-mobile-workstation/5387800
+PRN-KODAK-01,digital_press,Kodak,NEXPRESS S2500,Prensa digital para producción editorial,https://www.kodak.com/en/print/page/nexfinity-nexpress-drivers/
